@@ -8,4 +8,4 @@ Especialidad: Programación
 
 # ONETP 2023 "Codigo Azul"
 
-## Documentacion para la resolicion de Codigo Azul
+## Documentación para la resolución de Codigo Azul
